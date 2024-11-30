@@ -31,7 +31,7 @@ Home Assistant-powered smart homes out there, and, as of this year, we are also
 A lot has happened since [the last edition two years ago]. Lots of effort went
 into making a [voice-controlled Home Assistant] a reality. We have implemented
 [new dashboards and cards] (with drag-and-drop!),
-we [added organization capabilities] with labels and categories, and so [much]
+[added organization capabilities] with labels and categories, and so [much]
 [more]! But did everything turn out the way it should? Did we miss things?
 Or, worse, did something start to annoy you?
 
