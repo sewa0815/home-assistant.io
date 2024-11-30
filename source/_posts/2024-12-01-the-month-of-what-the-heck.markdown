@@ -77,7 +77,8 @@ brought up.
 Just as with previous editions, I sent out a related question on my socials
 earlier this week:
 
-> 🎅 𝘚𝘢𝘯𝘵𝘢 𝘮𝘪𝘨𝘩𝘵 𝘣𝘦 𝘭𝘪𝘴𝘵𝘦𝘯𝘪𝘯𝘨… If you could ask for one small Home Assistant improvement this holiday season, what would it be?
+> 🎅 𝘚𝘢𝘯𝘵𝘢 𝘮𝘪𝘨𝘩𝘵 𝘣𝘦 𝘭𝘪𝘴𝘵𝘦𝘯𝘪𝘯𝘨… If you could ask for one small Home Assistant
+> improvement this holiday season, what would it be?
 
 The answers to this question pretty much capture the goal behind this month:
 Finding those nice quality-of-life features and little annoyances, highlighting
@@ -97,7 +98,7 @@ for this month. I’ve picked a few from both platforms to show you what I mean:
 - *"Persist my prefered dashboard across my different devices/browsers."* ([Carlos Sánchez López])
 - *"Home Assistant voice hardware!"* ([Paulus Schoutsen]) 😆
 
-These are all great topics for the month of “What the heck?!”, I hope they inspire you for more topics to share 💖 
+These are all great topics for the month of “What the heck?!”, I hope they inspire you for more topics to share 💖.
 
 [Alex Alami]: https://bsky.app/profile/aaposutry.bsky.social/post/3lby3xqhzzk2w
 [Bluesky]: https://bsky.app/profile/did:plc:ofidofdlypuxb2dlfdmbh3a3/post/3lbx2w2kh5a2p
@@ -117,7 +118,7 @@ for the greater direction of Home Assistant. A few weeks back, [Madelena]
 and [JLo] shared the [2024 Year-end update of our roadmap].
 
 This year’s month of “What the heck?!” is thus different in this regard, as in
-previous editions, we didn’t have any roadmap in place. For this year’s WTH,
+previous editions we didn’t have any roadmap in place. For this year’s WTH,
 the product team will also be watching for items that will help shape and
 prioritize our roadmap for the near future.
 
@@ -134,7 +135,7 @@ have their origins or have been shaped by topics from the previous WTH from
 
 ## Why December?
 
-In the previous editions, we had this month in October this year, we decided to
+In the previous editions, we had this month in October; this year, we decided to
 move it to December. We figured, the holiday season is perfect for this event. 🎄
 
 Many of us have a bit more time on our hands during the holidays, whether that’s
